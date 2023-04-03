@@ -1,0 +1,22 @@
+
+  h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    padding-left: 7%;
+    padding-top: 2%;
+}
+.main ul li{
+  padding-top:3%;
+  padding-left:5%;
+  font-size: large;
+  font-weight: 300;
+
+}
+.m{
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-image:url('p2.jpg');
+ height:100vh;
+}
